@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sudhanshu-0907
 - 👀 I’m interested in coding,learning new things
-- 🌱 I’m currently learning backend
+- 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sudhanshusingh0907@gmail.com
 
